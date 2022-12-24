@@ -1,0 +1,8 @@
+name: Slot
+version: '${version}'
+main: io.github.yotu.slot.Slot
+api-version: 1.19
+commands:
+  slot:
+    description: Play simple slot
+    usage: /slot
